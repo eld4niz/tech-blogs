@@ -2,17 +2,6 @@
 
 This repository contains technical blogs on various topics related to Site Reliability Engineering, Automation, and Software Engineering(on few programming languages). Each folder corresponds to a specific technology or programming language.
 
-## Table of Contents
-
-- [Ansible](#ansible)
-- [Docker](#docker)
-- [Golang](#golang)
-- [Helm](#helm)
-- [Kubernetes](#kubernetes)
-- [Python](#python)
-- [Linux and Linux Internals](#linux-internals)
-
-
 
 ## Linux
 
@@ -30,7 +19,7 @@ Dive into the containerization world with Docker-related articles.
 
 ## Contributing
 
-If you would like to contribute to this collection of technical blogs, please follow our [contribution guidelines](CONTRIBUTING.md).
+If you would like to contribute to this collection of technical blogs please create a pull request and I'll review and accept it.
 
 ## License
 
